@@ -3,7 +3,7 @@ Spreadsheets.IkeaGlassBoard
 
 This is an Excel spreadsheet that can be used to design special-purpose whiteboards based on the Ikea [KLUDD](http://www.ikea.com/us/en/catalog/products/10114874/) product.
 
-Each cell represents a 0.5 square centimeter.  The black cells represent the circular knobs used to mount the board.  Place colored cells around the center of the spreadsheet to represent where you'd like your colored tape to go.  You should put the tape on the non-writing side of the notice board.
+Each cell represents a 0.5 square centimeter.  The black cells represent the circular knobs used to mount the board.  Place colored cells around the center of the spreadsheet to represent where you'd like your colored tape to go.  You should put the tape on the non-writing side of the notice board.  I prefer 1/2cm or 1/4" colored art tape.  You can find this at Office Max or any art supply store.
 
 ## Template
 You can use this template to design other special-purpose white boards.  Just copy the sheet and rename it.
