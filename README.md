@@ -21,7 +21,7 @@ Use this layout as a daily scheduler, where you can place up to 10 working hours
 ![Today](https://raw.github.com/ernesthwang/Spreadsheets.IkeaGlassBoard/master/img/Today.png "Today")
 
 ## Scrum Board
-If you participate in Scrum, you can use this board to document your Code Freeze date, Release date, your Stories and keep visibility of how many days are remaining.
+If you participate in Scrum, you can use this board to document your Code Freeze date, Release date, Build Versions, your JIRA Story numbers.  The area on the right gives you visibility of how many days are remaining in the sprint.
 
 ![Scrum Board](https://raw.github.com/ernesthwang/Spreadsheets.IkeaGlassBoard/master/img/ScrumBoard.png "Scrum Board")
 
