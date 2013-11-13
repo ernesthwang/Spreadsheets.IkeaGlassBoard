@@ -25,3 +25,7 @@ If you participate in Scrum, you can use this board to document your Code Freeze
 
 ![Scrum Board](https://raw.github.com/ernesthwang/Spreadsheets.IkeaGlassBoard/master/img/ScrumBoard.png "Scrum Board")
 
+## Template (Portrait)
+You can also use the Portrait version of the Template if you wish to mount your whiteboard vertically.
+
+![Template (Portrait)](https://raw.github.com/ernesthwang/Spreadsheets.IkeaGlassBoard/master/img/TemplatePortrait.png "Scrum Board")
